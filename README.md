@@ -1,2 +1,2 @@
-# snippets_project
+# project_about_snippets
 Второй проект, созданный в рамках курса "Python. Уровень 3. Разработка веб - приложений в Django""
